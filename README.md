@@ -208,7 +208,7 @@ create: create [ARG] [PARAM 1] [PARAM 2] ...
 
 ## Authors
 
-* MJ Johnson, [Abrish-seng](https://github.com/Abrish-seng)
+* [Abrish-seng](https://github.com/Abrish-seng)
 
 
 ## License
